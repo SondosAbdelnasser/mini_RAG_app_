@@ -17,4 +17,4 @@ $ pip install -r requirements.txt
 Setup the environment variables
 $ cp .env.example .env
 Run the FastAPI server (Development Mode)
-$ uvicorn main:app --reload --host 0.0.0.0 --port 5000
+$ uvicorn main:app
